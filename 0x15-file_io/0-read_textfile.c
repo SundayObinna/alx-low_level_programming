@@ -4,7 +4,7 @@
 * read_textfile - Reads a text file
 * @filename: The name of the text file
 * @letters: The length (size) of the text file
-* Return: The actual number of letters or 0.
+* Return: The actual number of letters or (EXIT_SUCCESS).
 *
 * Code by 0xOneBeing
 */
