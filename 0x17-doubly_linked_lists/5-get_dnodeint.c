@@ -5,7 +5,7 @@
  * @head: Double pointer to the head of the list
  * @index: Index of the node to return
  * Return: NULL or 0
- * 
+ *
  * Code by 0xOneBeing
  */
 
