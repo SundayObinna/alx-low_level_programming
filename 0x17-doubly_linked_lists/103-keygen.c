@@ -6,7 +6,7 @@
  * main - Generates and prints passwords for the crackme5 executable
  * @argv: Argument vector
  * @argc: Argument count
- * Return: (EXIT_SUCCESS)
+ * Return: - SAFE EXIT
  *
  * Code by 0xOneBeing
  */
