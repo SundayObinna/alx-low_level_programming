@@ -3,8 +3,6 @@
 
 #include <stdio.h>
 
-#include <stdio.h>
-
-void prints_hello(void);
+int add(int x, int y);
 
 #endif /* ADV.H */
