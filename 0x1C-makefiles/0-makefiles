@@ -1,0 +1,4 @@
+school:
+    gcc -Wall -Werror -Wextra -pedantic *.c -o school
+
+all: school
